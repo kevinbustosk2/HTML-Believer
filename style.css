@@ -1,6 +1,8 @@
 body{background-color:black;}
 h1{color: orangered;}
-p{color: orange;}
-h2{color: orange;}
-ol{color:orangered;}
+p{color:black;}
+h2{color: red;}
+ol{color:red;}
 p{font-family:monospace;}
+body{background-image: url(/assets/imagenes/imaginedragonswallpaper.jpg);}
+h1{background-color: black;}
